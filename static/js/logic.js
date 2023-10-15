@@ -11,7 +11,7 @@ const depthCategories = [
 // Creating the map object
 let myMap = L.map("map", {
     center: [37.09, -95.71],
-    zoom: 6
+    zoom: 5
 });
 
 // Adding the tile layer
