@@ -21,5 +21,5 @@ magnitudes should appear larger, and earthquakes with greater depth should appea
 * one html file (index.html) 
 * one REDME file
   
-### My reaulst page: link to
+### Link to the result page:
 https://siwhang213.github.io/leaflet-challenge/
