@@ -21,8 +21,8 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 // Store the API query for getting the GeoJSON data.
 let baseURL = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/";
-//let period = "all_week.geojson";
-let period = "all_month.geojson";
+let period = "all_week.geojson";
+//let period = "all_month.geojson";
 let url = baseURL + period;
 
 // Define function to style markers based on magnitude and depth
